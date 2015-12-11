@@ -1,0 +1,8 @@
+Do not delete/rename/move file named block.x2g from folder
+
+Open Terminal
+	javac Christmas.java
+	java Christmas
+
+
+

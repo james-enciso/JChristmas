@@ -14,8 +14,8 @@ To recompile and then run, type the following
 
 ASCII output
 
-![alt text](tree.png "Output 1")
-![alt text](snowman.png "Output 2")
+![alt text](screenshots/tree.png "Output 1")
+![alt text](screenshots/snowman.png "Output 2")
 
 To edit the text output, open the "block.x2g" file in a text editor
 
